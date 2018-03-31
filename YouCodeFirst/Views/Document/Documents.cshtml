@@ -1,0 +1,48 @@
+﻿@model  IEnumerable<WebSite.ViewModels.DocumentDisplayViewModel>
+    @{
+        ViewBag.Title = "Index";
+    }
+    <h2>Liste des documents</h2>
+    <div class="documents">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Creation Date</th>
+                    <th scope="col">File Name</th>
+
+
+                    @if (Model.First().Keys != null)
+                    {
+                        foreach (var item in Model.First().Keys)
+                        {
+                            <th scope="col">@Html.DisplayFor(modelItem => item.Name)</th>
+                        }
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                            <td>@Html.DisplayFor(modelItem => item.CreationDate)</td>
+                            <td>@Html.DisplayFor(modelItem => item.scanFileName)</td>
+                            @if (Model.First().Attributes != null)
+                            {
+                                foreach (var attr in item.Attributes)
+                                {
+                                    <td>@Html.DisplayFor(modelItem => attr.Value)</td>
+                                }
+                            }
+
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>

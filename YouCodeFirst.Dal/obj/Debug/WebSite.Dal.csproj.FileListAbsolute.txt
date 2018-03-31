@@ -1,0 +1,89 @@
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll.config
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.pdb
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\WebSite.Dal.csprojResolveAssemblyReference.cache
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Owin.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll.config
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.pdb
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\WebSite.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\WebSite.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll.config
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.pdb
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Owin.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\WebSite.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\WebSite.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+C:\Users\Oussema Mahdi\Google Drive\Rim\Traveau de Rim\YouCodeFirstV11\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb

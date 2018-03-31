@@ -1,0 +1,24 @@
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll.config
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.pdb
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.dll
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.xml
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.csprojResolveAssemblyReference.cache
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+c:\users\grumpy\documents\visual studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb
+C:\Users\grumpy\Documents\Visual Studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.Migrations._1.resources
+C:\Users\grumpy\Documents\Visual Studio 2013\Projects\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.csproj.GenerateResource.Cache
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll.config
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\YouCodeFirst.Dal.pdb
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.csprojResolveAssemblyReference.cache
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.Migrations._1.resources
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.csproj.GenerateResource.Cache

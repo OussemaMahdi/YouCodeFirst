@@ -1,0 +1,47 @@
+﻿@model  IEnumerable<WebSite.Dal.Models.Attribute>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AttributeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Key)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Value)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AttributeId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Key)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Value)
+                    </td>
+                    <td>
+                        @*@Html.ActionLink("Edit", "Edit", new { id = item.AttributeId }) |*@
+                        @Html.ActionLink("Details", "Details", new { id = item.AttributeId }) 
+                        @*@Html.ActionLink("Delete", "Delete", new { id = item.AttributeId })*@
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

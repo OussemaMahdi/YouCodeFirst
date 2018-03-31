@@ -1,0 +1,22 @@
+﻿@model  IEnumerable<WebSite.ViewModels.ApplicationDisplayViewModel>
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Liste des applications</h2>
+    <div class="applications">
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <div class="application">
+                    <a href="@Url.Action("ApplicationOperations", "Client", new { applicationId = item.Id })">
+                        @Html.DisplayFor(modelItem => item.Id) . @Html.DisplayFor(modelItem => item.Name)
+                    </a>
+                    <br />
+                </div>
+            }
+        }
+    </div>
+
+

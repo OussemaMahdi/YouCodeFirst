@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace YouCodeFirst.Dal.Entity
+{
+    [Table("Attribute")]
+    public class Attribute
+    {
+        [Key]
+        public int AttributeId { get; set; }
+        public string Key { get; set; }
+        public string Value { get; set; }
+
+        [ForeignKey("document")]
+        public virtual Document document { get; set; }
+        //[ForeignKey("ListAttributeId")]
+        ////public int ListAttributeId { get; set; }
+        //public virtual ListAttribute listAttribute { get; set; }
+    }
+}

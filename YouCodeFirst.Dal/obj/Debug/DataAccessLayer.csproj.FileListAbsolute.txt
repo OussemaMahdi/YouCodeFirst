@@ -1,0 +1,5 @@
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.Migrations._1.resources
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.dll
+C:\Users\grumpy\Desktop\Rim\YouCodeFirst\YouCodeFirst.Dal\obj\Debug\YouCodeFirst.Dal.pdb
